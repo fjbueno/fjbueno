@@ -1,3 +1,8 @@
+🟥🟩Gold Microsoft Learn
+🟦🟨Student Ambassador
+Ph.D. Student Administration and Computer Systems
+Associate Consultant ORACLE México
+
 ### Hi, I'm Francisco Bueno 👋🏽 👨🏽‍💻
 
 Francisco Bueno has 4 years of experience in Software Development; he holds a PhD in management and computer systems and currently works as Associate Consulting in Middleware, BI and Commerce Cloud Technologies at ORACLE Mexico.
