@@ -1,5 +1,5 @@
-🟥🟩Gold Microsoft Learn
-🟦🟨Student Ambassador
+🟥🟩
+🟦🟨Gold Microsoft Learn Student Ambassador
 Ph.D. Student Administration and Computer Systems
 Associate Consultant ORACLE México
 
